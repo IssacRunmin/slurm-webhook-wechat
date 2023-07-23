@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/3Golds/prom-webhook-wechat/models"
-	"github.com/3Golds/prom-webhook-wechat/tpl"
+	"github.com/IssacRunmin/slurm-webhook-wechat/models"
+	"github.com/IssacRunmin/slurm-webhook-wechat/tpl"
 	"github.com/pkg/errors"
 )
 

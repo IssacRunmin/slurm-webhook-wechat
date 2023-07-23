@@ -1,6 +1,6 @@
 GO    := GO15VENDOREXPERIMENT=1 go
 
-REPO_PATH               ?= github.com/3Golds/prom-webhook-wechat
+REPO_PATH               ?= github.com/IssacRunmin/slurm-webhook-wechat
 TESTARGS                ?= -race
 VETARGS                 ?= -all
 COVERARGS               ?= -coverprofile=profile.out -covermode=atomic

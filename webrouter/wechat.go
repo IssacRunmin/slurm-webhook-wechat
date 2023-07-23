@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/3Golds/prom-webhook-wechat/models"
-	"github.com/3Golds/prom-webhook-wechat/notifier"
-	"github.com/3Golds/prom-webhook-wechat/request"
+	"github.com/IssacRunmin/slurm-webhook-wechat/models"
+	"github.com/IssacRunmin/slurm-webhook-wechat/notifier"
+	"github.com/IssacRunmin/slurm-webhook-wechat/request"
 	"github.com/pressly/chi"
 )
 

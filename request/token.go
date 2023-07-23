@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/3Golds/prom-webhook-wechat/models"
+	"github.com/IssacRunmin/slurm-webhook-wechat/models"
 	"github.com/pkg/errors"
 )
 

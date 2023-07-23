@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/3Golds/prom-webhook-wechat/webrouter"
+	"github.com/IssacRunmin/slurm-webhook-wechat/webrouter"
 	"github.com/pressly/chi"
 	"github.com/pressly/chi/middleware"
 )
